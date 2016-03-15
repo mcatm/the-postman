@@ -1,6 +1,6 @@
 ## Example
 
-```
+```php
 <form method="POST" enctype="multipart/form-data">
 
 <?php wp_nonce_field('the-postman')?>
